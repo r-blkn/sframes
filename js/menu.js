@@ -45,3 +45,7 @@ jQuery(document).ready(function($){
 		}
 	});
 });
+
+let instagramLink = document.getElementsByClassName('istagram-link');
+
+instagramLink.open('https://www.youtube.com/channel/UCaWGffUzctvRUPijBDBbe5Q');
